@@ -18,6 +18,7 @@ Welcome to the **Music Streaming System**, a full-featured music streaming platf
 ## Here's the preview of the system:
 
 Frontend
-
+![Frontend Screenshot](./frontend.png)
 
 Admin Panel
+![Admin Panel Screenshot](./admin.png)
